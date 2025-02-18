@@ -1,0 +1,7 @@
+\begindata
+KERNELS_TO_LOAD = (
+    '../_kernels/pck/gm_de431.tpc',
+    '../_kernels/spk/de432s.bsp',
+    '../_kernels/lsk/naif0012.tls',
+                  )
+\begintext
