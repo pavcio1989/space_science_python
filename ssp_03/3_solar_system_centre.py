@@ -12,7 +12,7 @@ spiceypy.furnsh('kernel_meta.txt')
 # We want to compute miscellaneous positions w.r.t. the centre of
 # the Sun for a certain time interval.
 # First, we set an initial time in UTC.
-INIT_TIME_UTC = datetime.datetime(year=2000, month=1, day=1, \
+INIT_TIME_UTC = datetime.datetime(year=2000, month=1, day=1,
                                   hour=0, minute=0, second=0)
 
 # Add a number of days; you can play around with the datetime variables; but
